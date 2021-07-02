@@ -1,7 +1,7 @@
 # new_api_1
 Best Tool for CRACK FB ( NOT EDIT) & update this tool by HAMA_LORD_EZRAILY
 
-#COMMAND/
+#COMMANDS/
 
 $ pkg update & pkg upgrade
 
