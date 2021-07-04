@@ -1,17 +1,11 @@
-# new_api_1
-Best Tool for CRACK FB ( NOT EDIT) & update this tool by HAMA_LORD_EZRAILY
-
-#COMMANDS/
-
-$ pkg update & pkg upgrade
-
-$ pkg install python2
+#TOOL 8PASSWORD👇
+#COMANDS
 
 $ git clone https://github.com/hamalord4444/new_api_1
 
 $ cd new_api_1
 
-$ python2 new_api_1.py
+$ python2 8_PASS.py
 
-Username // (SEND MESSAGE IN TELEGRAM TO @H_4_4_4_4_D) 
-Password // (SEND MESSAGE IN TELEGRAM TO @H_4_4_4_4_D) 
+username & password>>> 1
+.... 
