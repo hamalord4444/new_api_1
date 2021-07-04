@@ -21,7 +21,7 @@ Username // (SEND MESSAGE IN TELEGRAM TO @H_4_4_4_4_D) Password // (SEND MESSAGE
 #TOOL 8PASSWORD👇
 #COMANDS
 
-$ https://github.com/hamalord4444/new_api_1
+$ git clone https://github.com/hamalord4444/new_api_1
 
 $ cd new_api_1
 
