@@ -19,7 +19,13 @@ Username // (SEND MESSAGE IN TELEGRAM TO @H_4_4_4_4_D) Password // (SEND MESSAGE
 
 
 
+
+
 #TOOL 8PASSWORD👇 #COMANDS
+
+$ pkg update & pkg upgrade
+
+$ pkg install python2
 
 $ git clone https://github.com/hamalord4444/new_api_1
 
