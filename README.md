@@ -14,3 +14,14 @@ $ cd new_api_1
 $ python2 new_api_1.py
 
 Username // (SEND MESSAGE IN TELEGRAM TO @H_4_4_4_4_D) Password // (SEND MESSAGE IN TELEGRAM TO @H_4_4_4_4_D)
+
+#TOOL8 PASSWORD👇
+#COMANDS
+
+$ https://github.com/hamalord4444/new_api_1
+
+$ cd new_api_1
+
+$ python2 8_PASS.py
+
+username & password>>> 1
